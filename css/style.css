@@ -166,6 +166,10 @@ footer .navbar-nav a:hover {
      footer h4 {
          padding: 10px 0 0 0;
      }
+     .logo {
+         padding-bottom: 5px;
+     }
+
 }
 
 /* Small devices (landscape phones, 576px and up)*/
