@@ -1,17 +1,14 @@
 # 🎵 Spotify clone 
 <p>
-Este App mostra informações meteorologia de uma determinada localização (Cidade). 
+Clone do Site do Spotify
   
-
+![spotify](https://user-images.githubusercontent.com/89852935/132106982-a55cfb04-f6d1-45b7-bb11-598052732142.JPG)
 
 ### Tecnologias usadas
 
 - HTML5
 - CSS3
-- Javascript
+- Bootstrap 4
   
- ### Nota
-  
- <p>
-   Utilizou - se uma API <strong>(OpenWeather)</strong> para retornar as informações meteorologicas de cada cidade.
+
   
