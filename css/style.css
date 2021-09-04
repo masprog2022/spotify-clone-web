@@ -170,6 +170,9 @@ footer .navbar-nav a:hover {
     .btn-custom {
         margin: 10px 15px;
     }
+    footer h4 {
+        padding: 5px 0;
+    }
  }
 
 @media (min-width: 576px) { 
